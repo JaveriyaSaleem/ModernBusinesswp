@@ -101,5 +101,11 @@ function mb_menu($theme_location) {
     echo $menu_list;
 }
 // end menu 
+// add classes to nav items
+
+
+// location added of vc element
+// visual composer elements
+require_once(dirname(__FILE__).'/inc/vc-elements.php');
 
 
